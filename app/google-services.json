@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "965254451577",
+    "firebase_url": "https://todoo-3b3a2.firebaseio.com",
+    "project_id": "todoo-3b3a2",
+    "storage_bucket": "todoo-3b3a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965254451577:android:7d196e36778b4465",
+        "android_client_info": {
+          "package_name": "com.example.suraz.todoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965254451577-lti2lmv5kgjoiiagmctbcg0b3pm977k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suraz.todoo",
+            "certificate_hash": "35d0a7158b2478f316fb32e93acf95fcc7841b45"
+          }
+        },
+        {
+          "client_id": "965254451577-de4b8e0v3kduu70gq5aqaofjpng9kb0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY2YbAtgiWAsVQ2r443EHz0C4F3NExQCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965254451577-de4b8e0v3kduu70gq5aqaofjpng9kb0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
